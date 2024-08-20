@@ -13,7 +13,3 @@ This project is primarily for internal use and reference. It's not intended for 
 ## License
 
 This project is private and not open for external use or contributions.
-
----
-
-© 2024 Bitfire.ai. All rights reserved.
